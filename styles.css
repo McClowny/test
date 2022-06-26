@@ -1,0 +1,124 @@
+body {
+    background-image: url(images/music.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  font-family: "Red Hat Display", sans-serif;
+}
+.proceed-payment {
+    width: 230%;
+    border-radius: 15px;
+    background-color: hsl(245, 75%, 52%);
+    box-shadow: 0px px 30px hsl(225deg 100% 94%);
+    border: none;
+    color: hsl(0, 0%, 100%);
+    margin: 10px 25px;
+    padding: 15px 15px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 200ms all ease-in-out;
+   position: relative;
+   left: -87px;
+   bottom: -130px
+}
+.cancel-payment {
+    border: none;
+    background-color: transparent;
+    padding-bottom: 25px;
+    font-weight: 700;
+    transition: 200ms all ease-in-out;
+    color: white;
+    cursor: pointer;
+    position: relative;
+    bottom: -140px;
+} 
+
+.order_summary {
+    color: white;
+   padding: 15px 30px;
+   line-height: 1.5;
+}
+.order_summary .h1tag {
+    color: white;
+}
+.tbox1 {
+    background-color: gray;
+    padding: 1000px;
+border-radius:20px;
+font-size:16px;
+padding:100px;
+margin:75px;
+height: 400px;
+width: 100px;
+margin-top: 2%;
+position: relative;
+right: -450px;
+}
+.tbox1 .h1_tag {
+    color: white;
+    
+}
+.tbox1 .music {
+    position: relative;
+    top: -100px;
+    left: -100px;
+width: 300px;
+height: 150px;
+border-radius: 20px;
+}
+.order-summary {
+    margin-top: -115px; 
+  margin-left: -55px; 
+  line-height: 1.5;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 27px;
+  white-space: nowrap;
+}
+h1 {
+    color: rgb(41, 40, 40);
+}
+.order-summary .ptag {
+    margin-top: -20px; 
+  margin-left: 1px; 
+  line-height: 1.5;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(211, 206, 206);
+  font-size: 15px;
+display: inline-block;
+}
+
+section {
+    display: block;
+}
+.musicicon {
+    position: relative;
+    bottom: 100px;
+}
+.Announce {
+    position: absolute;
+    bottom: 157px;
+   left: 40px;
+   font-size: 19px;
+   color:rgb(41, 40, 40);
+   
+}
+.change {
+    position: relative;
+    bottom: 110px;
+    background-color: transparent;
+    border: none;
+    color: rgb(211, 209, 209);
+    text-decoration: underline;
+    cursor: pointer;
+}
+.price {
+    position: relative;
+    bottom:102px;
+    right: -52px;
+    top: -104px;
+    color:hsl(0, 41%, 93%)
+}
+.tbox1 .music {
+    border-radius: 15px 15px 0px 0px;
+}
+s
